@@ -2,6 +2,6 @@
 
 int main(int argc, char** argv)
 {
-	TuxedoClientServer srv;
+	TuxedoClientServer srv888;
 	return srv.run(argc,argv);
 }
